@@ -62,3 +62,4 @@ git commit -m "First commit"
 
 
 git remote add origin https://github.com/khanr1/GitTutorial.git
+git push -u origin master
