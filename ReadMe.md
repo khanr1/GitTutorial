@@ -51,7 +51,7 @@ We see that ReadMe.md is not track by git. For changing that one need to add the
 ```bash
 git add ReadMe.md
 ```
-The file is not added to the git index and git will keep track of any changes in the file. Looking at the status of the project one get that there are changes needed
+The file is now added to the git index and git will keep track of any changes in the file. Looking at the status of the project one get that there are changes needed
 to  be committed i.e. which need to be looged and saved in the local repository. This is done with to following command
 ```bash
 git commit -m "First commit"
