@@ -1,6 +1,6 @@
 # Introduction
 
-This project is my notes about the basic commands of git hubs. All the command line are made in a Linux environment and how to start a project. Some references for this notes are
+This project regroupes my notes about the basic commands of git hubs. All the command line are made in a Linux environment and how to start a project. Some references for this notes are
 
 1. [openclassrooms](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
 2. [Try git: git tutorial](https://try.github.io/levels/1/challenges/1)
